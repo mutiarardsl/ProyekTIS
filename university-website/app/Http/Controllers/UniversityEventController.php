@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Services\EventApiService;
+use App\Providers\EventApiService;
 use Illuminate\Http\Request;
 
 class UniversityEventController extends Controller
